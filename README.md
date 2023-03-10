@@ -1,4 +1,4 @@
-**My Readme file**
-#This is a vargrant project
-*created the repository called zero_day
-*created a Readme file
+**My readme file**
+#this is a vargrant project
+*created the repostitory zero_day
+*created a readme file
